@@ -28,4 +28,6 @@ divideBy3()
 console.log(number)
 
 number = 10
-add5()
+
+
+inc(n)
