@@ -14,5 +14,6 @@ function multiply (a,b) {
   return a * b
 }
 
-var n = n
-n++
+function inc(n) {
+  return n++
+}
