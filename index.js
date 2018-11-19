@@ -14,5 +14,5 @@ function multiply (a,b) {
   return a * b
 }
 
-var n = 5
+var n = n
 n++
